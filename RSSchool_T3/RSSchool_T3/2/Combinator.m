@@ -2,6 +2,7 @@
 
 @implementation Combinator
 - (NSNumber*)chechChooseFromArray:(NSArray <NSNumber*>*)array {
-    return @0;
+    
+    return nil;
 }
 @end
